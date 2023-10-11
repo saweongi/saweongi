@@ -1,5 +1,11 @@
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I%60m+JinTaek;Have+a+nice+day!!)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚕🚙&fontAlign=70)
+
+<br />
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=180&section=header&text=weongi%20Sa&fontSize=80&fontColor=343a40&animation=twinkling&rotate=-5)
 
 
 
